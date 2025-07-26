@@ -1,0 +1,10 @@
+streamlit
+numpy
+langchain
+langchain_community
+langchain_ollama
+faiss-cpu
+pypdf
+fastapi
+uvicorn
+python-multipart
